@@ -13,6 +13,12 @@ Inneholder bilder fra fysisk testing av ALU-en. Bildene dokumenterer ulike innga
 - `V_B_10k.jpeg`: test der 10 kΩ pull-down på B ga ustabil/logisk feil oppførsel
 - `V_B_1k.jpeg`: test etter at pull-down på B ble endret til 1 kΩ
 
+### `DEMO_avkoblingskondensator/`
+
+Inneholder demonstrasjon video av hvordan avkoblingskondensatorer stabiliserer strømforsyningen:
+
+- `DEMO_AVC.mp4`: video som viser oscilloskopmåling av strømforsyningen uten og med avkoblingskondensatorer, og hvordan det påvirker stabiliteten i kretsen.
+
 ### `litteratur/`
 
 Inneholder relevante dokumenter brukt som støtte i rapporten:
