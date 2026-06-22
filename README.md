@@ -4,14 +4,18 @@ Dette repoet inneholder filer brukt i prosjektet for å utvikle, simulere og tes
 
 ## Innhold
 
-### `ALU-testbilder/`
+### `ALU-test/`
 
 Inneholder bilder fra fysisk testing av ALU-en. Bildene dokumenterer ulike inngangskombinasjoner for addisjon og subtraksjon:
 
+`bilder/`-mappen inneholder følgende bilder:
 - `add00.jpeg` til `add11.jpeg`: test av addisjon
 - `sub00.jpeg` til `sub11.jpeg`: test av subtraksjon
 - `V_B_10k.jpeg`: test der 10 kΩ pull-down på B ga ustabil/logisk feil oppførsel
 - `V_B_1k.jpeg`: test etter at pull-down på B ble endret til 1 kΩ
+
+`video/`-mappen inneholder:
+- `ALU_test.mp4`: viser testing av funksjonaliteten til ALU-en.
 
 ### `DEMO_avkoblingskondensator/`
 
