@@ -6,7 +6,7 @@ Dette repoet inneholder filer brukt i prosjektet for å utvikle, simulere og tes
 
 ### `ALU-test/`
 
-Inneholder bilder fra fysisk testing av ALU-en. Bildene dokumenterer ulike inngangskombinasjoner for addisjon og subtraksjon:
+Inneholder bilder og video fra fysisk testing av ALU-en. Bildene dokumenterer ulike inngangskombinasjoner for addisjon og subtraksjon:
 
 `bilder/`-mappen inneholder følgende bilder:
 - `add00.jpeg` til `add11.jpeg`: test av addisjon
